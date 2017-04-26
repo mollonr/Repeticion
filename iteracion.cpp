@@ -2,7 +2,7 @@
 #include <string>
 
 /* 
-* TP 3: "Enviar una frase a la salida estándar muchas veces"
+* TP 3: "Enviar una frase a la salida estándar muchas veces(iteración)"
 * Federico Martin Fukushima
 * 26-04-2017
 */
