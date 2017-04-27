@@ -1,6 +1,8 @@
 #Repeticion
 
-• Enunciado: "Enviar una frase a la salida estándar muchas veces."
+• Enunciado:
+
+	"Enviar una frase a la salida estándar muchas veces."
 
 • Análisis:
 
