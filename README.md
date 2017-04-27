@@ -3,15 +3,15 @@
 • Enunciado: "Enviar una frase a la salida estándar muchas veces."
 
 • Análisis:
-    Entradas:
-            Se ingresa un String llamado "frase".
-            Se ingresa un entero denominado "a".
-    Procesos:
-            Se ingresa una oración y la misma es guardada en el String "frase".
-            Se ingresa un numero entero y el mismo se guarda en la variable entera "a".
-            La oracion se imprime por pantalla, la cantidad de veces determinadas por la variable "a".
-    Salidas:
-            La salida será una oración, la cual se repetira un numero determinado de veces.
+	Entradas:
+			Se ingresa un String llamado "frase".
+			Se ingresa un entero denominado "a".
+	Procesos:
+			Se ingresa una oración y la misma es guardada en el String "frase".
+			Se ingresa un numero entero y el mismo se guarda en la variable entera "a".
+			La oracion se imprime por pantalla, la cantidad de veces determinadas por la variable "a".
+	Salidas:
+			La salida será una oración, la cual se repetira un numero determinado de veces.
 
 • Algoritmo:
     lexico:
