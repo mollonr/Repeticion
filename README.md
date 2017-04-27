@@ -3,6 +3,7 @@
 • Enunciado: "Enviar una frase a la salida estándar muchas veces."
 
 • Análisis:
+
 	Entradas:
 			Se ingresa un String llamado "frase".
 			Se ingresa un entero denominado "a".
